@@ -1,0 +1,102 @@
+ 
+<!-- product -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb30">
+                            <div class="product-block">
+                                <div class="product-img"><img src="corn.jpg" alt="" style="height:200px"></div>
+                                <div class="product-content">
+                                    <h5><a href="#" class="product-title"><b>CORN</b></a></h5>
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.product -->
+                        <!-- product -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb30">
+                            <div class="product-block">
+                                <div class="product-img"><img src="brownwheat.jpg" alt="" style="height:200px"></div>
+                                <div class="product-content">
+                                    <h5><a href="#" class="product-title"><b>BROWN WHEAT</b></a></h5>
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.product -->
+                        <!-- product -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb30">
+                            <div class="product-block">
+                                <div class="product-img"><img src="rice.jpg" alt="" style="height:200px"></div>
+                                <div class="product-content">
+                                    <h5><a href="#" class="product-title"><b>RICE</b></a></h5>
+
+                                </div>
+                            </div>
+                        </div>
+                     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb30">
+                            <div class="product-block">
+                                <div class="product-img"><img src="potato.jpg" alt="" style="height:200px" ></div>
+                                <div class="product-content">
+                                    <h5><a href="#" class="product-title"><b>POTATO</b></a></h5>
+
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.product -->
+                        <!-- product -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb30">
+                            <div class="product-block">
+                                <div class="product-img"><img src="cotton.jpg" alt="" style="height:200px"></div>
+                                <div class="product-content">
+                                    <h5><a href="#" class="product-title"><b>COTTON</b> <strong></strong></a></h5>
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.product -->
+                        <!-- product -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb30">
+                            <div class="product-block">
+                                <div class="product-img"><img src="soyabean.jpg" alt="" style="height:200px"></div>
+                                <div class="product-content">
+                                    <h5><a href="#" class="product-title"><b>SOYABEAN</b> <strong></strong></a></h5>
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.product -->
+                        <!-- product -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb30">
+                            <div class="product-block">
+                                <div class="product-img"><img src="chilli.jpg" alt="" style="height:200px"></div>
+                                <div class="product-content">
+                                    <h5><a href="#" class="product-title"><b>CHILLI</b> <strong></strong></a></h5>
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.product -->
+                        <!-- product -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb30">
+                            <div class="product-block">
+                                <div class="product-img"><img src="sugarcane.jpg" alt="" style="height:200px"></div>
+                                <div class="product-content">
+                                    <h5><a href="#" class="product-title"><b>SUGARCANE</b> <strong></strong></a></h5>
+
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /.product -->
+                        <!-- product -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 mb30">
+                            <div class="product-block">
+                                <div class="product-img"><img src="orange.jpg" alt="" style="height:200px"></div>
+                                <div class="product-content">
+                                    <h5><a href="#" class="product-title"><b>ORANGE</b> <strong></strong></a></h5>
+
+                                </div>
+                            </div>
+                        </div>
+ 
+ 
